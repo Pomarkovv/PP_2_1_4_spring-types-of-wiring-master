@@ -1,6 +1,7 @@
 package koschei;
 
 import koschei.config.AppConfig;
+import koschei.models.Egg6;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
